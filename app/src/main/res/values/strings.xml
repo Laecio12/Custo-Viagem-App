@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Custo de Viagem</string>
+    <string name="hint_distance">Distância</string>
+    <string name="quantosKm">Total de quilômetros</string>
+    <string name="price">Preço</string>
+    <string name="price_liter">Preço por litro</string>
+    <string name="autonomy">Autonomia</string>
+    <string name="autonomy_per_litter">KMs por litro</string>
+    <string name="txt_total_cost">Seu custo total será de </string>
+    <string name="init_total">R$ 0</string>
+    <string name="txt_calcular">Calcular</string>
+    <string name="txt_all_fields">Todos campos devem ser preenchidos!</string>
+</resources>
